@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hola, soy Sergio 👋
 
-<!--
-**tarteka/tarteka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Estudiante de Desarrollo de aplicaciones web [DAW]
 
-Here are some ideas to get you started:
+Para ello estoy matriculado en el __Centro Integrado de Formación Profesional de Aprendizajes Virtuales y Digitalizados (BIRTLH)__, más conocido como [BIRT](https://www.birt.eus) y en el cual se estudia 100% online 🖥️.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Como __estudio por hobbie__ :, y tengo un trabajo y una familia que atender, estoy matriculado en la oferta parcial, y cada año me inscribo en unas pocas asignaturas.
+
+Este año estoy cursando los siguientes módulos:
+
+- ✅ Despliege de aplicaciones web.
+- ✅ Desarrollo web en entorno servidor.
+
+Y hasta ahora tengo supuerados los siguientes:
+
+- Programación.
+- Lenguajes de marca y sistemas de gestión de la información.
+- Sistemas informáticos.
+- Base de datos.
+- Entornos de desarrollo.
+- Diseño de interfaces web.
+- Desarrollo web en entorno cliente.
+- Formación y orientación laboral.
+- Empresa e iniciativa emprendedora.
+- Inglés técnico.
+
+Para terminar me faltan:
+
+- ❓Proyecto de desarrollo de aplicaciones web
+- ❓Formación en Centros de Trabajo.
+
+## Me interesa:
+
++ Java ☕.
++ Python 🐍.
++ Javascript.
