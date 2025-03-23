@@ -4,7 +4,7 @@
 
 Para ello estoy matriculado en el __Centro Integrado de Formación Profesional de Aprendizajes Virtuales y Digitalizados (BIRTLH)__, más conocido como [BIRT](https://www.birt.eus) y en el cual se estudia 100% online 🖥️.
 
-Como __estudio por hobbie__ :, y tengo un trabajo y una familia que atender, estoy matriculado en la oferta parcial, y cada año me inscribo en unas pocas asignaturas.
+Al __estudiar por hobbie__ y tener un trabajo y una familia que atender, estoy matriculado en la oferta parcial, y cada año me inscribo en unas pocas asignaturas.
 
 Este año estoy cursando los siguientes módulos:
 
