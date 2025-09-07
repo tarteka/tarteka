@@ -6,12 +6,12 @@ Para ello estoy matriculado en el __Centro Integrado de Formación Profesional d
 
 Al __estudiar por hobbie__ y tener un trabajo y una familia que atender, estoy matriculado en la oferta parcial, y cada año me inscribo en unas pocas asignaturas.
 
-Este año estoy cursando los siguientes módulos:
+Este año (y último) estoy cursando los siguientes módulos:
 
-- ✅ Despliege de aplicaciones web.
-- ✅ Desarrollo web en entorno servidor.
+- ✅ Proyecto de desarrollo de aplicaciones web
+- ✅ Formación en Centros de Trabajo.
 
-Y hasta ahora tengo supuerados los siguientes:
+Hasta ahora tengo supuerados los siguientes:
 
 - Programación.
 - Lenguajes de marca y sistemas de gestión de la información.
@@ -23,15 +23,13 @@ Y hasta ahora tengo supuerados los siguientes:
 - Formación y orientación laboral.
 - Empresa e iniciativa emprendedora.
 - Inglés técnico.
-
-Para terminar me faltan:
-
-- ❓Proyecto de desarrollo de aplicaciones web
-- ❓Formación en Centros de Trabajo.
+- Despliegue de aplicaciones web.
+- Desarrollo web en entorno servidor.
 
 ## Me interesa:
 
 + Java ☕.
 + PHP 🐘.
 + Python 🐍.
-+ Javascript.
++ Javascript y Typescript.
++ y todo tipo de frameworks: Spring Boot, Laravel, Django, Angular, ...
